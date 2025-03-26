@@ -1,2 +1,2 @@
 # NLP-Sentiment-Analysis
-Análise de sentimento em textos usando NLP
+Análise de emoções em textos usando NLP
